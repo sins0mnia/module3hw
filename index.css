@@ -1,0 +1,19 @@
+* {
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+body {
+ padding-top: 70px; 
+}
+
+section {
+	background-color: grey;
+	min-height: 1000px;
+	margin-top: 20px;
+	text-indent: 50px;
+}
+
+h2 {
+	padding: 30px;
+}
+
